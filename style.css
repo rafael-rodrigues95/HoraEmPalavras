@@ -1,0 +1,22 @@
+
+p {
+	background-color: white;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 55px;
+	color: #c7ff26;
+	line-height: 35px;
+}
+
+p#destaque {
+	font-family: 'Damion', cursive;
+	font-size: 45px;
+}
+
+span {
+	color: #810752;
+}
+
+p:strong {
+	font-size: 25px;
+}
+
