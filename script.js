@@ -27,7 +27,7 @@ function ExibeHora(){
 	
 	//-------------------------------------------
 	// Criação de variáveis e definição da String hora 
-	// de "um" para "uma" e de "dois" para "duas"
+	// trocando de "um" para "uma" e de "dois" para "duas"
 	
 	var minuto1;
 	var hora;
