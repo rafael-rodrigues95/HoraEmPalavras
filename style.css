@@ -1,22 +1,28 @@
-
-p {
-	background-color: white;
-	font-family: 'Titillium Web', sans-serif;
-	font-size: 55px;
-	color: #c7ff26;
-	line-height: 35px;
+html {
+  position: center;
+  width: 60%;
+  margin: auto;
 }
 
-p#destaque {
-	font-family: 'Damion', cursive;
-	font-size: 45px;
-}
-
-span {
-	color: #810752;
+body {
+  font: Normal 21px "Century Gothic";
+  width: 70%;
+  margin: auto;
 }
 
 p:strong {
-	font-size: 25px;
+  font-size: 30px;
 }
 
+#link {
+  color: black;
+}
+
+#horaAgora {
+  font-size: 50pt;
+}
+
+#link:hover {
+  color: #01ffff;
+  text-decoration: none;
+}
